@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rescript": "*"
+    "rescript": "^10.0.1"
   }
 }
